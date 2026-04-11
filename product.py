@@ -1,5 +1,5 @@
-def prod(x, y):
-    return x*y
+def prod(x, y, z):
+    return x*y*z
 
 def divide(x,y):
     return x/y
